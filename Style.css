@@ -1,0 +1,16 @@
+/* grid container */
+.grid_container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+    margin: 50px;
+}
+
+/* grid items */
+.grid_item{
+    background-color: rgb(255,255,255, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
